@@ -20,6 +20,10 @@ sudo()
 app = BikashBot()
 
 userbot = Userbot()
+
+
+from .platform import *
+
 YouTube = YouTubeAPI()
 Carbon = CarbonAPI()
 Spotify = SpotifyAPI()
