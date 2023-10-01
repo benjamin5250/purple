@@ -1,14 +1,4 @@
-### Powered By @BikashHalder & @AdityaHalder 
-
-### Join @BikashGadgetsTech For More Update
-
-### Join @AdityaCheats For Hack
-
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
-
-
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
-
+### Powered By @SP_SANGLIYANA
 
 ### ABOUT THIS BOT
 🥀 Best Smart Voice Chat Music Bot 📢 For All Telegram Groups or Channels ✅ This Bot Support Video play Or Audio Play Both ||
@@ -38,7 +28,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/Bgtplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/devilscyber/Sangliyana-Bot)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -70,7 +60,7 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![Sangliyana](https://telegra.ph/file/5f49d9d99cc8a9773c545.jpg)](https://t.me/SP_SANGLIYANA)
 
 
 #### Main Developer = [Bikash](https://t.me/BikashHalder)
